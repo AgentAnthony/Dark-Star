@@ -52,7 +52,7 @@ def dos(host):
 
 def main():
     print "-"*60+"\n"
-    print "                  Dark Fantasy - Hack Tool                    "
+    print "                  Dark-Star - Hack Tool                    "
     print "-"*60+"\n"
     print "1.DDoS"
     choice=raw_input("Enter Your Choice: ")
