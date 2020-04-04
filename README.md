@@ -3,6 +3,6 @@
 </p>
 <br>
 <br>
-<h># Dark Star</h>
+# Dark Star
 <br>
  Small DDoS Script
