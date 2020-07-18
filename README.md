@@ -3,4 +3,4 @@
 </p>
 
 # Dark Star
- Small DDoS Script
+ Small DoS Script
