@@ -3,5 +3,5 @@
 </p>
 
 # Dark Star
- Small DoS Script
+ Small DoS Script<br />
  <em>Denail of Service</em>
